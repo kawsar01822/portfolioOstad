@@ -53,10 +53,9 @@
       </nav><!-- .navbar -->
 
       <div class="header-social-links">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="https://www.facebook.com/KawsarAhmed61" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://github.com/kawsar01822" target="_blank" class="github"><i class="bi bi-github"></i></a>
+        <a href="https://www.linkedin.com/in/kawsar9161" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
       </div>
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
