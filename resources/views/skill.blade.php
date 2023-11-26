@@ -22,7 +22,7 @@
         </div><!-- End Page Header -->
 
 
-        <!-- ======= Pricing Section ======= -->
+        <!-- ======= Skill Section ======= -->
         <section id="pricing" class="pricing">
             <div class="container">
                 <div class="row gy-4 gx-lg-5">
@@ -111,7 +111,7 @@
                     </div>
                 </div>
             </div>
-        </section><!-- End Pricing Section -->
+        </section><!-- End Skill Section -->
 
     </main><!-- End #main -->
 
