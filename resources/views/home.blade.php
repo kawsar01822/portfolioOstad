@@ -1,5 +1,9 @@
 @extends('layout.app')
 
+@section('hero')
+  @include('components.hero')
+@endsection
+
 @section('content')
 
 <main id="main" data-aos="fade" data-aos-delay="1500">

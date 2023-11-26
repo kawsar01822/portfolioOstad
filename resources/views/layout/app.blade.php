@@ -1,7 +1,7 @@
 
   @include('components.header')
 
-  @include('components.hero')
+  @yield('hero')
 
   @yield('content')
 
