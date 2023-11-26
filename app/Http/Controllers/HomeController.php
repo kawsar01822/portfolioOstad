@@ -21,6 +21,11 @@ class HomeController extends Controller
         return view('skill');
     }
 
+    public function projects()
+    {
+        return view('projects');
+    }
+
     public function contact()
     {
         return view('contact');
